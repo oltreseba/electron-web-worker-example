@@ -12,7 +12,7 @@
 	"license": "MIT",
 	"config": {},
 	"dependencies": {
-		"electron": "8.4.1"
+		"electron": "10.0.0"
 	},
 	"devDependencies": {}
 }

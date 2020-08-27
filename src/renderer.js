@@ -9,4 +9,4 @@ setInterval(() => {
   }
   console.log('Starting worker')
   worker = new Worker(path.resolve(__dirname, 'worker.js'))
-}, 3000)
+}, 1000)
